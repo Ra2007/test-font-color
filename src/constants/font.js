@@ -1,0 +1,5 @@
+export const CHANGE_FONT_INPUT = Symbol('CHANGE_FONT_INPUT')
+export const ADD_NEW_FONT = Symbol('ADD_NEW_FONT')
+export const ERROR_NO_FONT = Symbol('ERROR_NO_FONT')
+export const ERROR_NAME_FONT = Symbol('ERROR_NAME_FONT')
+export const SELECT_FONT = Symbol('SELECT_FONT')

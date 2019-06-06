@@ -1,0 +1,16 @@
+.target {
+  width: 100px;
+  height: 100px;
+  background-color: #d0cfcf;
+  border: 2px solid rgba(216, 19, 19, 0);
+  display: inline-block;
+  margin: 10px;
+}
+
+.target:hover {
+  border-color: rgba(216, 19, 19, 1);
+}
+
+.active {
+  border-color: rgba(216, 19, 19, 1);
+}
